@@ -1,6 +1,6 @@
 # Olá 👋 meu nome é Gustavo 😄.
 
-## Decidi focar no front-end quando fiz o meu primeiro código css, acabei gostando e então decidi aprofundar meu conhecimento.
+## Escolhi focar no front-end quando fiz o meu primeiro código css, acabei gostando e então decidi aprofundar meu conhecimento.
 > Também pretendo aprender sobre back-end.
 >> Nas horas vagas eu gosto de brincar nos softwares da Adobe (AE, PS, AI).
  <div style="display: inline_block"><br>
