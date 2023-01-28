@@ -2,14 +2,6 @@
 
 ## Escolhi focar no front-end quando fiz o meu primeiro código css, acabei gostando e então decidi aprofundar meu conhecimento.
 > Também pretendo aprender sobre back-end.
->> Nas horas vagas eu gosto de brincar nos softwares da Adobe (AE, PS, AI).
- <div style="display: inline_block"><br>
-  <img align="center" alt="Gustavo-AE" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" />
-  <img align="center" alt="Gustavo-PS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
-  <img align="center" alt="Gustavo-AI" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
-
-  
-</div>
 
 ##
 ## Meus status no GitHub:
@@ -23,7 +15,11 @@
   <img align="center" alt="Gustavo-js" height="50" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   </div>
   
-##
+##Estudando no momento: 
+<img align="center" alt="Gustavo-RN" height="100" width="500" src="https://miro.medium.com/max/1400/1*safAvjgR68qpQCreDTOcYA.png"/>
+<img align="center" alt="Gustavo-RN" height="100" width="500" src="[https://miro.medium.com/max/1400/1*safAvjgR68qpQCreDTOcYA.png](https://miro.medium.com/max/3600/1*6ahbWjp_g9hqhaTDSJOL1Q.png)"/>
+
+
 ## Entre em contato:
 
 <div>
@@ -34,7 +30,6 @@
 ##
 
 - 👨🏻‍💻 No momento, sou estudante de Ciência da Computação.
-- 🌱 Estou aprendendo HTML, Css e JS. Futuramente eu pretendo estudar material de UI/UX design.
 - 🤔 Busco ajuda para melhorar minhas habilidades, qualquer crítica é bem vinda.
 - 📫 Email para contato: gustavovt.contato@gmail.com .
 - 🧠 Vou atualizar essa bio conforme eu atualizo meu conhecimento 😄.
