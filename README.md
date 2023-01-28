@@ -15,9 +15,8 @@
   <img align="center" alt="Gustavo-js" height="50" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   </div>
   
-##Estudando no momento: 
-<img align="center" alt="Gustavo-RN" height="100" width="500" src="https://miro.medium.com/max/1400/1*safAvjgR68qpQCreDTOcYA.png"/>
-<img align="center" alt="Gustavo-RN" height="100" width="500" src="[https://miro.medium.com/max/1400/1*safAvjgR68qpQCreDTOcYA.png](https://miro.medium.com/max/3600/1*6ahbWjp_g9hqhaTDSJOL1Q.png)"/>
+## Estudando no momento: 
+<img align="center" alt="Gustavo-RN" height="50" width="250" src="https://miro.medium.com/max/1400/1*safAvjgR68qpQCreDTOcYA.png"/>
 
 
 ## Entre em contato:
