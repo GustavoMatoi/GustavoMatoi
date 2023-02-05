@@ -1,7 +1,7 @@
 # Olá 👋 meu nome é Gustavo 😄.
 
-## Escolhi focar no front-end quando fiz o meu primeiro código css, acabei gostando e então decidi aprofundar meu conhecimento.
-> Também pretendo aprender sobre back-end.
+## Escolhi focar no front-end quando escrevi o meu primeiro css na matéria "Programação Web" da faculdade, acabei gostando e então decidi seguir esta área.
+> Também pretendo aprender sobre back-end, especificamente focando no Node.js.
 
 ##
 ## Meus status no GitHub:
@@ -20,7 +20,7 @@
   </div>
   
 ## Estudando no momento: 
-<img align="center" alt="Gustavo-RN" height="50" width="250" src="https://miro.medium.com/max/1400/1*safAvjgR68qpQCreDTOcYA.png"/>
+<img align="center" alt="Gustavo-RN" height="50" width="350" src="https://miro.medium.com/max/1400/1*safAvjgR68qpQCreDTOcYA.png"/>
 
 
 ## Entre em contato:
