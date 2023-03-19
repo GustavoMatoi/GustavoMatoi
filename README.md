@@ -1,7 +1,7 @@
 # Olá 👋 meu nome é Gustavo 😄.
 
-## Escolhi focar no front-end quando escrevi o meu primeiro css na matéria "Programação Web" da faculdade, acabei gostando e então decidi seguir esta área.
-> Também pretendo aprender sobre back-end, especificamente focando no Node.js.
+## Gosto de tudo em programação, hardware, robótica, sistemas operacionais, etc. mas, minha maior habilidade é na programação.
+> Linguagem de programação favorita: JavaScript.
 
 ##
 ## Meus status no GitHub:
@@ -32,7 +32,7 @@
 
 ##
 
-- 👨🏻‍💻 No momento, sou estudante de Ciência da Computação.
+- 👨🏻‍💻 No momento, sou estudante de Ciência da Computação e professor de Informática Aplicada.
 - 🤔 Busco ajuda para melhorar minhas habilidades, qualquer crítica é bem vinda.
 - 📫 Email para contato: gustavovt.contato@gmail.com .
 - 🧠 Vou atualizar essa bio conforme eu atualizo meu conhecimento 😄.
