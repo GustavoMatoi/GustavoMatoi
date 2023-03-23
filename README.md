@@ -1,6 +1,6 @@
 # Olá 👋 meu nome é Gustavo 😄.
 
-## Gosto de tudo em programação, hardware, robótica, sistemas operacionais, etc. mas, minha maior habilidade é na programação.
+## Gosto de tudo em computação hardware, robótica, sistemas operacionais, etc. mas, minha maior habilidade é na programação.
 > Linguagem de programação favorita: JavaScript.
 
 ##
