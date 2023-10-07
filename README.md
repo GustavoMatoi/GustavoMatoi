@@ -35,11 +35,4 @@
 
 ##
 
-- 👨🏻‍💻 No momento, sou estudante de Ciência da Computação e professor de Informática Aplicada.
-- 🤔 Busco ajuda para melhorar minhas habilidades, qualquer crítica é bem vinda.
-- 📫 Email para contato: gustavovt.contato@gmail.com .
-- 🧠 Vou atualizar essa bio conforme eu atualizo meu conhecimento 😄.
-- ⚡ Fun fact: "Matoi" não é meu sobrenome, e sim o sobrenome da protagonista do meu anime favorito (Kill la Kill).
-
-<br>
 ![snake gif](https://github.com/GustavoMatoi/GustavoMatoi/blob/output/github-contribution-grid-snake.svg)
