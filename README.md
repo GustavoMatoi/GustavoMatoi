@@ -23,7 +23,6 @@
   
 ## Estudando no momento: 
 <img align="center" alt="Gustavo-RN" height="50" width="350" src="https://miro.medium.com/max/1400/1*safAvjgR68qpQCreDTOcYA.png"/>
-  <img align="center" alt="Gustavo-electron" height="50" width="50" src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/electron-icon.png" />
 
 
 ## Entre em contato:
