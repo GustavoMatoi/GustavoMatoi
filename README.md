@@ -17,7 +17,6 @@
   <img align="center" alt="Gustavo-react" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" />
   <img align="center" alt="Gustavo-node" height="50" width="40" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" />
   <img align="center" alt="Gustavo-ts" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" />
-  <img align="center" alt="Gustavo-electron" height="50" width="50" src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/electron-icon.png" />
 
   </div>
   
