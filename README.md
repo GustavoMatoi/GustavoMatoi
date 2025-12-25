@@ -22,10 +22,7 @@ Gosto de explorar computação além do óbvio — do software ao hardware — s
 
 ### 📊 GitHub em números
 <div align="left">
-  <a href="https://github.com/GustavoMatoi">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GustavoMatoi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoMatoi&layout=compact&langs_count=7&theme=algolia"/>
-  </a>
+<a href="https://github.com/GustavoMatoi"> <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GustavoMatoi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavomatoi&layout=compact&langs_count=7&theme=algolia"/><br> </a>
 </div>
 
 ---
